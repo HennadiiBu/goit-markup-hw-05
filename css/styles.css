@@ -643,6 +643,7 @@ body {
   height: 100%;
   background-color: var(--modal-bkg);
   /* transition-property: var(--modal-bkg); */
+
   transition-duration: 1.5s;
   /* animation: ani-backdrop 1.5s linear; */
 }
@@ -671,8 +672,6 @@ body {
   border-radius: 4px;
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
     0px 2px 1px rgba(0, 0, 0, 0.2);
-  transition-property: scale(5s);
-  transition-duration: 5s;
 }
 
 .is-hidden {
