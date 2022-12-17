@@ -643,7 +643,7 @@ body {
   height: 100%;
   background-color: var(--modal-bkg);
   transition-property: var(--modal-bkg);
-  transition-duration: 500ms;
+  transition-duration: 1.5s;
   /* animation: ani-backdrop 1.5s linear; */
 }
 
@@ -678,7 +678,7 @@ body {
   visibility: hidden;
   pointer-events: none;
   transition-property: var(--modal-bkg);
-  transition-duration: 1s;
+  transition-duration: 1.5s;
 }
 
 .close-button {
