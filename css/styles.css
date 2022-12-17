@@ -645,18 +645,15 @@ body {
   opacity: 1;
   /* transition-property: var(--modal-bkg);
   transition-duration: 500ms; */
-  animation: ani-backdrop 2s linear;
+  animation: ani-backdrop 1s linear;
 }
 
 @keyframes ani-backdrop {
   0% {
-    scale: 0;
-  }
-  50% {
-    scale: 50%;
+    opacity: 0;
   }
   100% {
-    scale: 100%;
+    opacity: 1;
   }
 }
 
