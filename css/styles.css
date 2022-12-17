@@ -647,7 +647,7 @@ body {
   /* animation: ani-backdrop 1.5s linear; */
 }
 
-@keyframes ani-backdrop {
+/* @keyframes ani-backdrop {
   0% {
     opacity: 0;
     scale: 0%;
@@ -656,7 +656,7 @@ body {
     opacity: 1;
     scale: 100%;
   }
-}
+} */
 
 .modal {
   position: absolute;
