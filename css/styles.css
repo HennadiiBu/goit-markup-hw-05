@@ -644,7 +644,7 @@ body {
   background-color: var(--modal-bkg);
   /* transition-property: var(--modal-bkg);
   transition-duration: 500ms; */
-  animation: ani-backdrop 1s linear;
+  animation: ani-backdrop 1.5s linear;
 }
 
 @keyframes ani-backdrop {
