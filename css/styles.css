@@ -642,7 +642,6 @@ body {
   width: 100%;
   height: 100%;
   background-color: var(--modal-bkg);
-  opacity: 1;
   /* transition-property: var(--modal-bkg);
   transition-duration: 500ms; */
   animation: ani-backdrop 1s linear;
